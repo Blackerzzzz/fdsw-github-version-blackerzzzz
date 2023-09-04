@@ -6,6 +6,8 @@ i{font-size: 3em;}
 
 /* Hero Section */
 
+.navbar-brand img{height: 30px; width: auto;}
+
 #Hero-Section {
   background-image: url("../img/IMG_9933.jpg");
   background-repeat: no-repeat;
